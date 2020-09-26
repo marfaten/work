@@ -11,7 +11,7 @@
 <body>
 
 
-<h1>Bienvenue sur mon blog</h1>
+<h1>Bienvenue sur mon blog après GIT</h1>
 <center><p> Voici les derniers billets dont on a discuté</p></center>
 
 
