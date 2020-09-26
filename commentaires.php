@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<h1>Mon super blog !</h1>
+<h1>Mon super blog!</h1>
 <p><a href="blog.php">Retour à la liste des billets</a></p>
 
 <?php
